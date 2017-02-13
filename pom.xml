@@ -10,7 +10,6 @@
     <module>ear</module>
     <module>jpa</module>
     <module>ejb</module>
-    <module>jsf</module>
     <module>model</module>
       <module>common</module>
   </modules>
